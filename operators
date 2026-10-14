@@ -1,0 +1,28 @@
+//Arithemetic operators
+public class Main {
+pulic static void main(String[] args) {
+int a = 10,b = 5;
+System.out.println(a + b);
+}
+}
+//Subtraction
+public class Main {
+public static void main(String[] args) {
+int a = 10, b = 5;
+System.out.println(a - b);
+}
+}
+//Multiplication
+public class Main {
+public static void main(String[] args) {
+int a = 10,b = 5;
+System.out.println(a * b);
+}
+}
+//Division
+public class Main {
+public static void main(String[] args) {
+int a = 10,b = 5;
+System.out.println(a / b);
+}
+}
